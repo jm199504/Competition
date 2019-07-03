@@ -2,15 +2,15 @@
 
 **竞赛链接**
 
-<<https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/>>
+<https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/>
 
 **竞赛排名**（截止于2019.06.06）GRU模型
 
-
+<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/rank.png">
 
 **数据介绍**
 
-
+<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/features.png">
 
 **目录**
 
@@ -25,6 +25,8 @@
 
 **处理流程**
 
+<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/features.png">
+
 **数据集缺失值处理办法**
 
 1. 样本缺失特征数量超过一定阈值删除
@@ -38,7 +40,7 @@
 
 ML-model-代码展示方法3
 
-
+<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/fill.png">
 
 **添加衍生数据特征**
 
@@ -47,6 +49,8 @@ ML-model-代码展示方法3
 3. 计算最高温度与最低温度的差值；当周的植被总和；
 
 ML-model-代码展示方法2
+
+<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/add.png">
 
 **数据归一化**
 
@@ -60,6 +64,8 @@ ML-model-代码展示方法2
 **数据特征排名**
 
 1. 随机森林进行特征排名
+
+<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/feature_rank.png">
 
 **模型选择**
 
