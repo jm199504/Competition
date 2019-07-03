@@ -10,7 +10,7 @@
 
 **数据介绍**
 
-<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/features.png" width="500">
+<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/features.png" width="600">
 
 **目录**
 
