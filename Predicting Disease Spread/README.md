@@ -6,7 +6,7 @@
 
 **竞赛排名**（截止于2019.06.06）GRU模型
 
-<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/rank.png">
+<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/rank.png" width="500">
 
 **数据介绍**
 
@@ -24,8 +24,6 @@
    2. _Add_Features文件表添加衍生特征
 
 **处理流程**
-
-<img src="https://github.com/jm199504/Competition/blob/master/Predicting%20Disease%20Spread/images/features.png">
 
 **数据集缺失值处理办法**
 
