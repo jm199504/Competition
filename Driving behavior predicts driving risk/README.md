@@ -20,7 +20,7 @@ https://www.datafountain.cn/competitions/284
 
 根据多条用户行程目前所在经度/纬度变化，计算行驶距离，计算地球的两点（已知经纬度）实际距离，计算公式如下：
 
-<img src="https://github.com/jm199504/Competition/blob/master/Driving%20behavior%20predicts%20driving%20risk/images/3.png">
+<img src="https://github.com/jm199504/Competition/blob/master/Driving%20behavior%20predicts%20driving%20risk/images/3.png" width="500">
 
 实现代码如下：
 
