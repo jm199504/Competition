@@ -6,13 +6,13 @@ https://www.datafountain.cn/competitions/284
 
 ### 2.竞赛排名 
 
-图1
+<img src="https://github.com/jm199504/Competition/blob/master/Driving%20behavior%20predicts%20driving%20risk/images/1.png">
 
 （截止于2018.07.10）
 
 ### 3.数据介绍
 
-图2
+<img src="https://github.com/jm199504/Competition/blob/master/Driving%20behavior%20predicts%20driving%20risk/images/2.png">
 
 ### 4.数据观察
 
@@ -20,7 +20,7 @@ https://www.datafountain.cn/competitions/284
 
 根据多条用户行程目前所在经度/纬度变化，计算行驶距离，计算地球的两点（已知经纬度）实际距离，计算公式如下：
 
-图3
+<img src="https://github.com/jm199504/Competition/blob/master/Driving%20behavior%20predicts%20driving%20risk/images/3.png">
 
 实现代码如下：
 
